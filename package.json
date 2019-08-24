@@ -20,6 +20,7 @@
   "homepage": "https://github.com/paulodsn/senketsu#readme",
   "devDependencies": {
     "rollup": "^1.20.1",
+    "rollup-plugin-commonjs": "^10.0.2",
     "rollup-plugin-vue": "^5.0.1",
     "vue": "^2.6.10",
     "vuepress": "^1.0.3"
