@@ -1,9 +1,9 @@
 <template>
-  <div id="app"></div>
+    <button></button>
 </template>
 
 <script>
 export default {
-    name: 'App',
+    name: 'SButton'
 }
 </script>

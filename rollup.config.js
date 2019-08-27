@@ -3,7 +3,7 @@ import commonjs from 'rollup-plugin-commonjs';
 
 export default [
     {
-        input: 'src/App.vue',
+        input: 'src/index.js',
         output: {
             format: 'esm',
             file: 'dist/library.esm.js'
