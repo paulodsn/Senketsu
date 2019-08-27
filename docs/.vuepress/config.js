@@ -6,7 +6,8 @@ module.exports = {
                 title: 'Components',
                 collapse: true,
                 children: [
-                    '/components/button'
+                    '/components/button',
+                    '/components/blockquote',
                 ]
             }
         ]
