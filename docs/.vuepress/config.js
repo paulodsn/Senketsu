@@ -8,7 +8,8 @@ module.exports = {
                 children: [
                     '/components/button',
                     '/components/blockquote',
-                    '/components/textStrip'
+                    '/components/textStrip',
+                    '/components/helperBox',
                 ]
             }
         ]
