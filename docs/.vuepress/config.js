@@ -10,6 +10,7 @@ module.exports = {
                     '/components/blockquote',
                     '/components/textStrip',
                     '/components/helperBox',
+                    '/components/cloud',
                 ]
             }
         ]

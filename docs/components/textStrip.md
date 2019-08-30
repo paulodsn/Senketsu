@@ -1,3 +1,3 @@
 ### TextStrip
 
-<s-text-strip text="Um exemplo de texto" />
+<s-text-strip text="Text example" />
