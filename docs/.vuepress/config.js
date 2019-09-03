@@ -11,6 +11,9 @@ module.exports = {
                     '/components/textStrip',
                     '/components/helperBox',
                     '/components/cloud',
+                    '/components/figure',
+                    '/components/list',
+                    '/components/input'
                 ]
             }
         ]

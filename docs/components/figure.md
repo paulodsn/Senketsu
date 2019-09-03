@@ -1,0 +1,3 @@
+### Figure
+
+<s-figure />

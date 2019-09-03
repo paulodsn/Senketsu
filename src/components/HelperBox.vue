@@ -18,6 +18,7 @@ export default {
         padding: 10px;
         position: relative;
         width: 300px;
+        box-shadow: 3px 3px 3px #AAA;
 
         &::before {
             border-color: transparent #D3CDAE transparent transparent;
